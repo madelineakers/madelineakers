@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madelineakers
-- 👀 I’m interested in data, good design, and software that makes life easier
+- 👀 I’m interested in data, good design, and software that makes life easier for people
 - 🌱 I’m currently learning Swift
 - 📫 Reach me at madeline.akers@gmail.com
 
